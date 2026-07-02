@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
