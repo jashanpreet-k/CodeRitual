@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/0031-next-permutation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
