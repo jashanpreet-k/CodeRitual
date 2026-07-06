@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
