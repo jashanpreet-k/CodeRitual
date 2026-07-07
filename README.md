@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [1859-sorting-the-sentence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1859-sorting-the-sentence) |
@@ -55,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1859-sorting-the-sentence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2785-sort-vowels-in-a-string) |
