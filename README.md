@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
