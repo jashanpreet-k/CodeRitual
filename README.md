@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
