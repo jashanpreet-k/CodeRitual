@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jashanpreet-k/CodeRitual/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
