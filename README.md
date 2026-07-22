@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0040-combination-sum-ii) |
+| [0136-single-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jashanpreet-k/CodeRitual/tree/master/0485-max-consecutive-ones) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0136-single-number) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Depth-First Search
 |  |
