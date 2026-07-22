@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1859-sorting-the-sentence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2785-sort-vowels-in-a-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
