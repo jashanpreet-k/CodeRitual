@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/jashanpreet-k/CodeRitual/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/jashanpreet-k/CodeRitual/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
 |  |
