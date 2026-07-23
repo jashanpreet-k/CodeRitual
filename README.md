@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jashanpreet-k/CodeRitual/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [1922-count-good-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/1922-count-good-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0137-single-number-ii) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
 |  |
 | ------- |
