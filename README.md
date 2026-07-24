@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jashanpreet-k/CodeRitual/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashanpreet-k/CodeRitual/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jashanpreet-k/CodeRitual/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -217,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jashanpreet-k/CodeRitual/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jashanpreet-k/CodeRitual/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
