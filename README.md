@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashanpreet-k/CodeRitual/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
