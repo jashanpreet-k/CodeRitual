@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashanpreet-k/CodeRitual/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/jashanpreet-k/CodeRitual/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jashanpreet-k/CodeRitual/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Math
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jashanpreet-k/CodeRitual/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3514-number-of-unique-xor-triplets-ii) |
