@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/jashanpreet-k/CodeRitual/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
+| [0860-lemonade-change](https://github.com/jashanpreet-k/CodeRitual/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
