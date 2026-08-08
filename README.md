@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/jashanpreet-k/CodeRitual/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/jashanpreet-k/CodeRitual/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/jashanpreet-k/CodeRitual/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jashanpreet-k/CodeRitual/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jashanpreet-k/CodeRitual/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jashanpreet-k/CodeRitual/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jashanpreet-k/CodeRitual/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jashanpreet-k/CodeRitual/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
@@ -297,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
