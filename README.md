@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/jashanpreet-k/CodeRitual/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/jashanpreet-k/CodeRitual/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jashanpreet-k/CodeRitual/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jashanpreet-k/CodeRitual/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -319,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
