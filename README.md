@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/jashanpreet-k/CodeRitual/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0113-path-sum-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jashanpreet-k/CodeRitual/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jashanpreet-k/CodeRitual/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/jashanpreet-k/CodeRitual/tree/master/0115-distinct-subsequences) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jashanpreet-k/CodeRitual/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
