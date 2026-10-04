@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/jashanpreet-k/CodeRitual/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jashanpreet-k/CodeRitual/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -386,8 +388,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
