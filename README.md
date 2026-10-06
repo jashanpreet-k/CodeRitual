@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jashanpreet-k/CodeRitual/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashanpreet-k/CodeRitual/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0860-lemonade-change](https://github.com/jashanpreet-k/CodeRitual/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashanpreet-k/CodeRitual/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jashanpreet-k/CodeRitual/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashanpreet-k/CodeRitual/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/jashanpreet-k/CodeRitual/tree/master/2104-sum-of-subarray-ranges) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashanpreet-k/CodeRitual/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jashanpreet-k/CodeRitual/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem
