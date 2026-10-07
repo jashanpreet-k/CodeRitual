@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0301-remove-invalid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jashanpreet-k/CodeRitual/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jashanpreet-k/CodeRitual/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jashanpreet-k/CodeRitual/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jashanpreet-k/CodeRitual/tree/master/0424-longest-repeating-character-replacement) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0301-remove-invalid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
