@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jashanpreet-k/CodeRitual/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jashanpreet-k/CodeRitual/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jashanpreet-k/CodeRitual/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jashanpreet-k/CodeRitual/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jashanpreet-k/CodeRitual/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1143-longest-common-subsequence) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jashanpreet-k/CodeRitual/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/jashanpreet-k/CodeRitual/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/jashanpreet-k/CodeRitual/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1140-stone-game-ii) |
