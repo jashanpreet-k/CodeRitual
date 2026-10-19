@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashanpreet-k/CodeRitual/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/1980-find-unique-binary-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jashanpreet-k/CodeRitual/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/jashanpreet-k/CodeRitual/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jashanpreet-k/CodeRitual/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jashanpreet-k/CodeRitual/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1859-sorting-the-sentence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jashanpreet-k/CodeRitual/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/jashanpreet-k/CodeRitual/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jashanpreet-k/CodeRitual/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashanpreet-k/CodeRitual/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jashanpreet-k/CodeRitual/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jashanpreet-k/CodeRitual/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
