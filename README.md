@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jashanpreet-k/CodeRitual/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/jashanpreet-k/CodeRitual/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/jashanpreet-k/CodeRitual/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2785-sort-vowels-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jashanpreet-k/CodeRitual/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jashanpreet-k/CodeRitual/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -450,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jashanpreet-k/CodeRitual/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
