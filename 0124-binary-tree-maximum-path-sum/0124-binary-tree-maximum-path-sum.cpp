@@ -19,7 +19,7 @@ public:
         int rh = max(0,sum(root->right));
         ans = max(ans, lh + rh + root->val);
 
-        return root->val + lh + rh;
+        return root->val + max(lh,rh);
         
     }
     int maxPathSum(TreeNode* root) {
