@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jashanpreet-k/CodeRitual/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
