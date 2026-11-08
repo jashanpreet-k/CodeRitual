@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/jashanpreet-k/CodeRitual/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jashanpreet-k/CodeRitual/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/jashanpreet-k/CodeRitual/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/jashanpreet-k/CodeRitual/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jashanpreet-k/CodeRitual/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/jashanpreet-k/CodeRitual/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jashanpreet-k/CodeRitual/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/jashanpreet-k/CodeRitual/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jashanpreet-k/CodeRitual/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashanpreet-k/CodeRitual/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -318,12 +321,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jashanpreet-k/CodeRitual/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jashanpreet-k/CodeRitual/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/jashanpreet-k/CodeRitual/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
@@ -490,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashanpreet-k/CodeRitual/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jashanpreet-k/CodeRitual/tree/master/0543-diameter-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/jashanpreet-k/CodeRitual/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
