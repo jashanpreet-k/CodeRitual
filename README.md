@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/jashanpreet-k/CodeRitual/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jashanpreet-k/CodeRitual/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/1980-find-unique-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/jashanpreet-k/CodeRitual/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2785-sort-vowels-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashanpreet-k/CodeRitual/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/jashanpreet-k/CodeRitual/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/jashanpreet-k/CodeRitual/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jashanpreet-k/CodeRitual/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashanpreet-k/CodeRitual/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
